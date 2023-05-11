@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Swing.iml" filepath="$PROJECT_DIR$/.idea/Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swing/poject/poject.iml" filepath="$PROJECT_DIR$/swing/poject/poject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swing/poject1/poject1.iml" filepath="$PROJECT_DIR$/swing/poject1/poject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swing/swing.iml" filepath="$PROJECT_DIR$/swing/swing.iml" />
+    </modules>
+  </component>
+</project>
